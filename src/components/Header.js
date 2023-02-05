@@ -71,7 +71,6 @@ export default function Header() {
             <p className="hidden lg:inline-flex link">
                 Health & Personal Care
             </p>
-            
         </div>
     </header>
   )
